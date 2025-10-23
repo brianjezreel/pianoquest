@@ -1,0 +1,37 @@
+{
+  "lessons": [
+    {
+      "lessonId": 1,
+      "title": "Meet the Piano",
+      "description": "Learn about the piano keyboard layout and find Middle C",
+      "category": "Basics",
+      "xpReward": 100,
+      "prerequisites": [],
+      "slides": [
+        {
+          "slideId": 1,
+          "title": "Welcome to Piano!",
+          "instruction": "Welcome to your first piano lesson! Today we'll explore the piano keyboard and learn about the most important key - Middle C.",
+          "type": "instruction"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Basics",
+      "description": "Fundamental piano concepts and skills",
+      "icon": "school"
+    },
+    {
+      "name": "Scales",
+      "description": "Learn major and minor scales",
+      "icon": "trending_up"
+    },
+    {
+      "name": "Chords",
+      "description": "Basic chord structures and progressions",
+      "icon": "piano"
+    }
+  ]
+} 
